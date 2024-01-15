@@ -2,7 +2,7 @@
 
 Programador Android, formado em Sistemas de Informação, trabalhando na area de TI desde 2016 e como Programador Android desde 2021.
 
-**Atualmente:** Trabalho como Desenvolvedor Android na IBM
+**Atualmente:** Trabalho como Desenvolvedor Android no Santander
 
 **Estudando:** Estudando cursos focados em Desenvolvimento Android Nativo com kotlin, MVVM + Clean Architecture, Testes unitários e CI/CD
 
